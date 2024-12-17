@@ -1,3 +1,0 @@
-lecteur qui renvoie sur mes streams
-hover avec voiceline au passage de la souris sur le nom du perso et pour Call of un bruit de tir pour le multi, cri de zombie pour le zombie
-présentation personnage etc... comme la picture box pokémon
